@@ -18,6 +18,18 @@ body{
 
 }
 
+portfolioflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+portfolioitem {
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
 .element {
     margin-top: 20px;
     margin-bottom: 20px;
